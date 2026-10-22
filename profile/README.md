@@ -6,7 +6,7 @@
   <a href="https://reviewell.com"><strong>Visit Reviewell ↗</strong></a> &nbsp; · &nbsp;
   <a href="#the-workspace">The workspace</a> &nbsp; · &nbsp;
   <a href="#built-with-care">Our approach</a> &nbsp; · &nbsp;
-  <a href="#engineering--collaboration">Engineering</a>
+  <a href="https://github.com/reviewell-app/.github/blob/main/docs/PRODUCT.md">Product brief</a>
 </p>
 
 ## Better casework starts with better context.
@@ -29,6 +29,12 @@ A disputed review can leave a business with scattered evidence, uncertain next s
 
 This describes the product direction. Current service availability and onboarding are communicated through [reviewell.com](https://reviewell.com).
 
+### One case, a clear thread
+
+**Illustrative example:** a business disputes a review, but the facts are incomplete. A useful case record connects the review, the business's explanation, the evidence still needed and the next decision. If the facts do not support a challenge, that should be clear too.
+
+[Read the product brief →](https://github.com/reviewell-app/.github/blob/main/docs/PRODUCT.md) — audience, casework model and what the product is being built to support.
+
 ## Built with care
 
 **Facts before conclusions.** Negative feedback and a platform-policy violation are different things. The first step is to understand the review and its context.
@@ -49,6 +55,7 @@ This organisation is Reviewell's product and engineering home. Public resources 
 | Understand delivery expectations | [Engineering handbook](https://github.com/reviewell-app/.github/blob/main/docs/ENGINEERING.md) |
 | Get help | [Support routes](https://github.com/reviewell-app/.github/blob/main/SUPPORT.md) |
 | Report a vulnerability privately | [Security reporting](https://github.com/reviewell-app/.github/blob/main/SECURITY.md) |
+| Use the Reviewell identity | [Brand assets](https://github.com/reviewell-app/.github/blob/main/docs/BRAND.md) |
 | Participate respectfully | [Community conduct](https://github.com/reviewell-app/.github/blob/main/CODE_OF_CONDUCT.md) |
 
 <details>
