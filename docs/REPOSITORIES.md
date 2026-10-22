@@ -1,6 +1,6 @@
 # Repository map
 
-Reviewell's public GitHub presence contains product information, the public preview tour, brand assets and collaboration guidance.
+Reviewell's public GitHub presence contains product information, the public website tour, brand assets and collaboration guidance.
 
 | Resource | Public location |
 | :--- | :--- |
