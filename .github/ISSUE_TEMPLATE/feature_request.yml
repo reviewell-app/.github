@@ -1,0 +1,23 @@
+name: Feature request
+description: Explain a product need or improvement.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What task are you trying to accomplish?
+      description: Describe the problem and who it affects.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired result
+      description: What would a useful improvement let you do?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Optional workarounds or related ideas.

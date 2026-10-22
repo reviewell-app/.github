@@ -1,0 +1,38 @@
+name: Bug report
+description: Report a reproducible technical problem.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Use redacted or synthetic examples. Report security issues privately using SECURITY.md."
+  - type: input
+    id: environment
+    attributes:
+      label: Version and environment
+      description: Product version or commit, operating system and browser where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest clear example that demonstrates the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Redacted logs or screenshots
+      description: Optional. Remove personal data, tokens and customer information.
