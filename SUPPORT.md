@@ -1,6 +1,6 @@
 # Support
 
-For review assessments, existing cases and business enquiries, use [reviewell.com](https://reviewell.com). Do not post review evidence or customer records on GitHub.
+For content-removal assessments, existing cases and business enquiries, use [reviewell.com](https://reviewell.com). Do not post case evidence or customer records on GitHub.
 
 Before reporting a technical problem, check the project's README and existing issues. Include the product version, operating system, reproduction steps, expected result and actual result. Share only redacted logs and screenshots.
 

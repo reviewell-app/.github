@@ -3,7 +3,8 @@
 This repository maintains the [public organisation profile](https://github.com/reviewell-app) and shared contributor resources.
 
 - `profile/README.md`: the organisation's public start page.
-- `assets/`: profile artwork.
+- `assets/`: profile artwork and product examples.
+- `docs/REPOSITORIES.md`: current source locations and ownership decision.
 - `docs/PRODUCT.md`: product guide and public reference links.
 - `CONTRIBUTING.md`, `SUPPORT.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`: shared guidance.
 - `.github/ISSUE_TEMPLATE/`: structured bug reports and feature requests.

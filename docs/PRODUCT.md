@@ -4,15 +4,19 @@
 
 ## The problem
 
-A business disputing a review often has several separate pieces of work: understand what happened, identify the relevant facts, gather evidence, decide whether a challenge is appropriate and follow the response. Scattered messages and documents make those decisions harder to explain and track.
+A person or business raising a harmful-content concern often has several separate pieces of work: understand what happened, identify the relevant facts, gather evidence, decide whether a challenge is appropriate and follow the response. Scattered messages and documents make those decisions harder to explain and track.
 
-Reviewell is building a structured workspace around that casework. This brief describes the product direction, not a promise that every capability is currently available. Service availability and onboarding are communicated through the website.
+Reviewell is building a structured workspace around that casework, covering reviews, fake profiles, privacy concerns and other harmful online content. This brief describes the product direction, not a promise that every capability is currently available. Service availability and onboarding are communicated through the website.
+
+## Current public status
+
+The [website preview](https://reviewell-removal-preview.vercel.app) exposes services, intake and process guidance. The client workspace requires sign-in. See the [guided tour](DEMO.md) for the public views you can explore without an account.
 
 ## Who it is for
 
 | Person | Their task | A useful result |
 | :--- | :--- | :--- |
-| Business owner | Explain a disputed review and respond to relevant evidence requests | A clear understanding of the case and next step |
+| Individual or business owner | Explain a disputed review and respond to relevant evidence requests | A clear understanding of the case and next step |
 | Agency | Coordinate cases for its clients | Organised context, responsibilities and progress |
 | Caseworker | Assess the facts, prepare work and record decisions | A traceable case history with a defensible rationale |
 
@@ -22,7 +26,7 @@ Reviewell is building a structured workspace around that casework. This brief de
 
 ### 1. Capture context
 
-Establish which review is being discussed, what the business says happened and which information is missing. Separate the original review from the business's explanation and any assumptions.
+Establish which content is being discussed, what the business says happened and which information is missing. Separate the original review from the business's explanation and any assumptions.
 
 ### 2. Assess the facts
 
