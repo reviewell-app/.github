@@ -1,39 +1,77 @@
 <p>
-  <img src="https://raw.githubusercontent.com/reviewell-app/.github/main/assets/banner.svg" alt="Clear evidence. Considered action." width="100%" />
+  <img src="https://raw.githubusercontent.com/reviewell-app/.github/main/assets/banner.svg" alt="Reviewell — A fair assessment. A clearer next step." width="100%" />
 </p>
 
-# Reviewell
+<p align="center">
+  <a href="https://reviewell.com"><strong>Visit Reviewell ↗</strong></a> &nbsp; · &nbsp;
+  <a href="#the-workspace">The workspace</a> &nbsp; · &nbsp;
+  <a href="#built-with-care">Our approach</a> &nbsp; · &nbsp;
+  <a href="#engineering--collaboration">Engineering</a>
+</p>
 
-**A clearer way to assess unfair reviews and organise the next step.**
+## Better casework starts with better context.
 
-Reviewell is building tools for businesses and agencies to assess potentially policy-breaking reviews, organise evidence and follow a case from intake to outcome.
+A disputed review can leave a business with scattered evidence, uncertain next steps and little visibility into what happens next.
 
-[Visit Reviewell](https://reviewell.com) · [Engineering guidelines](https://github.com/reviewell-app/.github/blob/main/CONTRIBUTING.md) · [Security](https://github.com/reviewell-app/.github/blob/main/SECURITY.md)
+**Reviewell is building a structured workspace for that work:** assess the review, establish the facts, organise relevant evidence and keep the case moving. Designed for businesses and the agencies that support them.
 
-## What we're building
+<p>
+  <img src="https://raw.githubusercontent.com/reviewell-app/.github/main/assets/workflow.svg" alt="Capture context → Assess facts and policy → Prepare evidence → Track decisions and outcomes" width="100%" />
+</p>
 
-| Area | Purpose |
+## The workspace
+
+| For business owners | For agencies and caseworkers |
 | :--- | :--- |
-| Review assessment | Capture a review and establish the facts before deciding on a response. |
-| Evidence and casework | Organise relevant evidence, requests, decisions and case history. |
-| Client workspace | Give businesses a clear view of their case and next actions. |
-| Agency workflows | Support the people coordinating review cases for clients. |
+| **A clear starting point.** Capture the review and explain what happened. | **A structured case record.** Keep context, evidence requests and decisions together. |
+| **Relevant evidence.** Understand what information is needed and why. | **Clear next actions.** See what is waiting on a client or needs attention. |
+| **Visible progress.** Follow requests, case history and next steps. | **Traceable outcomes.** Record what actually happened and preserve the reasoning. |
 
-## Our approach
+This describes the product direction. Current service availability and onboarding are communicated through [reviewell.com](https://reviewell.com).
 
-- **Evidence before action.** An inconvenient review is not automatically a policy violation.
-- **People make the decisions.** Software helps structure the work; it does not determine a platform's outcome.
-- **Clear expectations.** Assessment and preparation do not guarantee removal. The review platform decides.
-- **Careful handling of information.** Keep case evidence and customer information in the appropriate private channels.
+## Built with care
 
-## Find the right place
+**Facts before conclusions.** Negative feedback and a platform-policy violation are different things. The first step is to understand the review and its context.
 
-**Business enquiries or review cases:** start at [reviewell.com](https://reviewell.com). GitHub is our engineering space, not a place to submit customer evidence.
+**Human judgement at the right moments.** Software can organise evidence and prepare work. People decide what action is appropriate, and the review platform decides its own outcomes.
 
-**Developers:** public repositories document their own setup and availability. See our [contribution guidelines](https://github.com/reviewell-app/.github/blob/main/CONTRIBUTING.md) before proposing a change.
+**A record you can follow.** Requests, supporting material, decisions and responses belong in a coherent case history.
 
-**Security researchers:** use the [private reporting route](https://github.com/reviewell-app/.github/blob/main/SECURITY.md).
+**Information with a purpose.** Ask for relevant evidence and handle it through appropriate private channels. Customer records and review evidence do not belong in public GitHub issues.
+
+## Engineering & collaboration
+
+This organisation is Reviewell's product and engineering home. Public resources explain how to collaborate; individual repositories define their own availability, setup and licence.
+
+| Resource | Start here |
+| :--- | :--- |
+| Propose a change | [Contribution guide](https://github.com/reviewell-app/.github/blob/main/CONTRIBUTING.md) |
+| Understand delivery expectations | [Engineering handbook](https://github.com/reviewell-app/.github/blob/main/docs/ENGINEERING.md) |
+| Get help | [Support routes](https://github.com/reviewell-app/.github/blob/main/SUPPORT.md) |
+| Report a vulnerability privately | [Security reporting](https://github.com/reviewell-app/.github/blob/main/SECURITY.md) |
+| Participate respectfully | [Community conduct](https://github.com/reviewell-app/.github/blob/main/CODE_OF_CONDUCT.md) |
+
+<details>
+<summary><strong>A few useful answers</strong></summary>
+
+### Does assessment guarantee removal?
+
+No. A case needs facts and a relevant policy basis. A platform makes its own decision; assessment and preparation cannot guarantee a removal.
+
+### Can I submit my case on GitHub?
+
+Start at [reviewell.com](https://reviewell.com) for service enquiries. Do not attach customer evidence, private correspondence or personal details to a public issue.
+
+### Is all Reviewell source code open source?
+
+Each repository states its own licence and availability. This public profile and its contributor resources do not make private product code available for reuse.
+
+### Who maintains Reviewell?
+
+[Philippe Godfroy](https://github.com/phlppgdfry), based in Belgium. His other independent products live at [phlppgdfry-apps](https://github.com/phlppgdfry-apps).
+
+</details>
 
 ---
 
-Founded and maintained by [Philippe Godfroy](https://github.com/phlppgdfry) · Belgium
+<p align="center"><strong>Reviewell</strong> &nbsp; / &nbsp; Clear evidence. Considered action.<br /><sub>Founded by <a href="https://github.com/phlppgdfry">Philippe Godfroy</a> · Belgium · <a href="https://reviewell.com">reviewell.com</a></sub></p>

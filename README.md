@@ -6,6 +6,7 @@ This repository maintains the [public organisation profile](https://github.com/r
 - `assets/`: profile artwork.
 - `CONTRIBUTING.md`, `SUPPORT.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`: shared guidance.
 - `.github/ISSUE_TEMPLATE/`: structured bug reports and feature requests.
+- `docs/ENGINEERING.md`: shared delivery and release guidance.
 - `.github/PULL_REQUEST_TEMPLATE.md`: a short change and validation checklist.
 
 Project-specific instructions take precedence. Shared guidance does not change a repository's licence or imply that private product source is available for reuse.
